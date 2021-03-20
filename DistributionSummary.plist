@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>MaeGo.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>DDB2B659B117307F8D03D08909C486D48DFC8098</string>
+				<key>dateExpires</key>
+				<string>2022/2/9</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>DDB2B659B117307F8D03D08909C486D48DFC8098</string>
+						<key>dateExpires</key>
+						<string>2022/2/9</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>App.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>RQ7KF8G4AM</string>
+						<key>name</key>
+						<string>Zhongqian You</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>DDB2B659B117307F8D03D08909C486D48DFC8098</string>
+						<key>dateExpires</key>
+						<string>2022/2/9</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>Flutter.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>RQ7KF8G4AM</string>
+						<key>name</key>
+						<string>Zhongqian You</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>DDB2B659B117307F8D03D08909C486D48DFC8098</string>
+						<key>dateExpires</key>
+						<string>2022/2/9</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>Reachability.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>RQ7KF8G4AM</string>
+						<key>name</key>
+						<string>Zhongqian You</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>DDB2B659B117307F8D03D08909C486D48DFC8098</string>
+						<key>dateExpires</key>
+						<string>2022/2/9</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>connectivity.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>RQ7KF8G4AM</string>
+						<key>name</key>
+						<string>Zhongqian You</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>DDB2B659B117307F8D03D08909C486D48DFC8098</string>
+						<key>dateExpires</key>
+						<string>2022/2/9</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>frusty_logger.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>RQ7KF8G4AM</string>
+						<key>name</key>
+						<string>Zhongqian You</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>DDB2B659B117307F8D03D08909C486D48DFC8098</string>
+						<key>dateExpires</key>
+						<string>2022/2/9</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>game_joystick.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>RQ7KF8G4AM</string>
+						<key>name</key>
+						<string>Zhongqian You</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>DDB2B659B117307F8D03D08909C486D48DFC8098</string>
+						<key>dateExpires</key>
+						<string>2022/2/9</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>shared_preferences.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>RQ7KF8G4AM</string>
+						<key>name</key>
+						<string>Zhongqian You</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>DDB2B659B117307F8D03D08909C486D48DFC8098</string>
+						<key>dateExpires</key>
+						<string>2022/2/9</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>webview_flutter.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>RQ7KF8G4AM</string>
+						<key>name</key>
+						<string>Zhongqian You</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>RQ7KF8G4AM.com.didijin.maego</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>RQ7KF8G4AM</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>Runner.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>2815d476-3992-4670-a5da-2c23d5ccbe4d</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.didijin.maego</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>RQ7KF8G4AM</string>
+				<key>name</key>
+				<string>Zhongqian You</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
